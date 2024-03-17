@@ -1,11 +1,14 @@
 # MBA-Tasks
 Collection of tasks completed in PG 
 
-#Bustle
+# Bustle
 Quiz Competition
-#IC
+# IC
 Paper presentations
-#Zest
+# Zest
 Management Studies Events
-#Labhdhi Bandhari
+# Labhdhi Bandhari
 Business plan competition
+# QTM Mini project
+Leveraging Sustainable Practices to Reduce Carbon Footprints in Supply Chain Management (Chi Square Test for Independence of Attributes)
+
